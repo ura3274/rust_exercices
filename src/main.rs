@@ -8,6 +8,7 @@ fn main() {
     
     //let res = exers::sandwich::sandwich_game();
     //println!("{res}");
+    exers::fibonachi_count::fiba_count();
     //exers::min_digit::min_digit();
     //exers::seasons::seasons();
     //exers::find_number::find_number();
@@ -20,7 +21,7 @@ fn main() {
     //exers::is_integer::is_integer();
     //exers::clock::clock();
     //exers::palindrom::palindrom();
-    exers::five_choice::five_choice();
+    //exers::five_choice::five_choice();
     //let a = String::new();
     //let a = Box::new(A{a:3, b:"gg".to_string()});
     //let b = A{a:3, b:"jj".to_string()};

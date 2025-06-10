@@ -12,4 +12,4 @@ pub mod fibonachi_count;
 //pub mod is_integer;
 //pub mod clock;
 //pub mod palindrom;
-pub mod five_choice;
+//pub mod five_choice;

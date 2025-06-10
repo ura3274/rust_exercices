@@ -1,0 +1,11 @@
+[package]
+name = "exer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+rand = "0.9.1"
+rodio = "0.20.1"
+trpl = "0.2.0"
+

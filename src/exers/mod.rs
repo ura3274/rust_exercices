@@ -1,0 +1,14 @@
+//pub mod sandwich;
+//pub mod min_digit;
+//pub mod seasons;
+//pub mod find_number;
+//pub mod sum_numbers;
+//pub mod morze;
+//pub mod medium_sequence;
+//pub mod ordered_array;
+//pub mod timer;
+//pub mod students;
+//pub mod is_integer;
+//pub mod clock;
+//pub mod palindrom;
+pub mod five_choice;
